@@ -1,0 +1,66 @@
+ <style>
+        
+        body {
+	background: linear-gradient(-90deg, #2B7A78, white, #3AAFA9);
+ }
+ button {
+	background: linear-gradient(-45deg, #3778C2, pink, #CAE7DF);
+ }
+
+            h1{
+                display:flex;
+                justify-content:center;
+                align-items:center;
+            }
+             h2{
+                width:500px;
+                text-align:center;
+                position:absolute;
+                left:25%;
+                top:25%;
+            }
+            
+            p{
+            text-align:center;
+            position:absolute; 
+            font-size:1.5em;
+            }
+            button{
+                font-size:30px;
+                padding:10px;
+                margin:20px;
+            }
+            #home{
+               position:fixed;
+               top:25%;
+            }
+            #CompetitiveAudit{
+                position:fixed;
+                top:32%;
+
+            }
+            #WireFrames{
+                 position:fixed;
+                top:39%;
+            }
+            #Prototype{
+                position:fixed;
+                top:46%;
+            }
+            #UsabilityTest{
+                position:fixed;
+                top:53%;
+            }
+         
+                }
+                span{
+                    padding-top:30px;
+                }
+            
+                #par1{
+                        width:500px;
+                        left:25%;
+                        top:30%;
+                     }
+               
+        </style>
